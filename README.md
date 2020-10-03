@@ -1,5 +1,6 @@
 # udemy-vuejs
 
+練習用
 ## Project setup
 ```
 npm install
